@@ -1,6 +1,6 @@
 # Jenkins Demo API — Pipeline CI/CD com FastAPI, Pytest e Docker
 
-API REST desenvolvida em Python com **FastAPI**, acompanhada de testes automatizados (**Pytest** com exportação de relatórios **JUnit XML**), contentorização com boas práticas de segurança (**Docker**) e uma **Pipeline Declarativa Jenkins** completa.
+API REST desenvolvida em Python com **FastAPI**, com testes automatizados (**Pytest** com exportação de relatórios **JUnit XML**), contentorização com boas práticas de segurança (**Docker**) e uma **Pipeline Declarativa Jenkins** completa.
 
 ## Arquitetura e Tecnologias
 
